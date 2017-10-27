@@ -1,0 +1,36 @@
+/* Get those good Google fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto|Sigmar+One|Fascinate+Inline|Audiowide');
+
+body {
+	max-width: 750px;
+    font-family: 'Roboto', sans-serif;
+    background-color: lightcyan;
+}
+
+h1 {
+	font-family: 'Fascinate Inline', sans-serif;
+}
+
+h2 {
+	font-family: 'Sigmar One', sans-serif;
+}
+
+h3 {
+	font-family: 'Audiowide', sans-serif;
+}
+
+p {
+	color: black;
+}
+
+blockquote {
+	text-align:center; 
+	padding: 30px;
+}
+
+#highlighted_heading {
+    color: gold;
+	width: 500px;
+	background-color: blue; 
+	border: 2px solid black
+}
